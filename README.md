@@ -28,7 +28,7 @@ Follow along by filling out the empty project template according the the complet
 
 [Read the Step-by-step Tutorial Here](nba_point_regression.ipynb)
 
-[Use the Empty Project Template to follow along by filling out empty sections of code](projectTemplate.py)
+[Code Template](projectTemplate.py)
 
 
 
