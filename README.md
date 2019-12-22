@@ -27,6 +27,8 @@ For this project, we will use NBA season statistics to build a basic linear regr
 Follow along by filling out the empty project template according the the completed Jupyter Notebook project.
 
 [Read the Step-by-step Tutorial Here](nba_point_regression.ipynb)
-[Use the Empty Project Template to follow along by filling out empty sections of code]
+
+[Use the Empty Project Template to follow along by filling out empty sections of code](projectTemplate.py)
+
 
 
